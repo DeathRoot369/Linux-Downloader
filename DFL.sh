@@ -2,7 +2,7 @@
 
 clear
 
-echo "Hello World"
+echo "Select option ->"
 echo -e "\n"
 #---VPN
 echo "1-VPN"
